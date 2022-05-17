@@ -67,7 +67,7 @@ const hasOrange = shoppingList.some(item => item === "orange")
 // hasOrange is true
 ```
 
-if the array does not have an orange:
+if the array does not have an orange in it, the result will be false instead of true:
 
 
 ```js
